@@ -197,7 +197,7 @@
         <mj-group>
           <mj-column width="100%">
             <mj-button
-              href="https://www.axa.com.sg/travel-insurance/smarttraveller#helpful_information"
+              href="https://www.axa.com.sg/promotions/smart-traveller"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -249,7 +249,8 @@
             padding="20px 30px 0"
             color="#2e2e2e"
             font-size="16px"
-            >Promo lasts until 31 May 2017
+          >
+            Promo lasts until 31 May 2017
           </mj-text>
           <mj-button
             href="https://www.axa.com.sg/travel-insurance/smarttraveller"
@@ -273,7 +274,7 @@
         <mj-group>
           <mj-column width="100%">
             <mj-button
-              href="https://www.axa.com.sg/travel-insurance/smarttraveller#helpful_information"
+              href="https://www.axa.com.sg/promotions/smart-traveller"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -325,7 +326,7 @@
               Home wasn't built in a day; keep it safe with home insurance.
             </mj-text>
             <mj-button
-              href="https://www.axa.com.sg/our-solutions/personal/home"
+              href="https://www.axa.com.sg/home-insurance"
               css-class="btn-hover-blue"
               align="center"
               padding-top="20px"
@@ -347,7 +348,7 @@
         <mj-group>
           <mj-column width="100%">
             <mj-button
-              href="https://www.axa.com.sg/home-insurance#helpful_information"
+              href="https://www.axa.com.sg/promotions/home-promo"
               css-class="btn-text-hover"
               align="right"
               border="none"
