@@ -1,0 +1,428 @@
+<mjml>
+  <mj-head>
+    <mj-title> AXA SmartTravel </mj-title>
+
+    <!-- START of Global Attributes -->
+    <mj-breakpoint width="800px" />
+    <mj-attributes>
+      <mj-all padding="0" font-family="Arial" line-height="1.4" />
+    </mj-attributes>
+    <!-- END of Global Attributes -->
+
+    <!-- START of Inline Style Overrides -->
+    <!-- prettier-ignore -->
+    <mj-style inline="inline">
+      .inline-img {
+        display: inline;
+        outline: none;
+        border: 0;
+        font-size: 13px;
+        text-decoration: none;
+      }
+
+      .btn-text {
+        display: inline-block;
+        margin: 0;
+        background: transparent;
+        color: #ffffff;
+        font-family: Arial;
+        font-size: 11px;
+        line-height: 1.4;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .social-facebook-img {
+        width: 72px;
+        height: auto;
+      }
+
+      .social-youtube-img,
+      .social-linkedin-img {
+        width: 31px;
+        height: auto;
+      }
+    </mj-style>
+    <!-- END of Inline Style Overrides -->
+
+    <!-- START of Internal/Mobile Styles -->
+    <!-- prettier-ignore -->
+    <mj-style>
+      .btn-text-hover a:hover,
+      a.btn-text-hover:hover {
+        cursor: pointer !important;
+        text-decoration: underline !important;
+      }
+
+      .btn-hover-white a:hover {
+        background-color: #ffffff !important;
+        color: #133483 !important;
+      }
+
+      .btn-hover-blue a:hover {
+        background-color: #133483 !important;
+        color: #ffffff !important;
+      }
+
+      @media only screen and (max-width: 799px) {
+        .wrapper > table > tbody > tr > td {
+          padding-top: 0 !important;
+          padding-bottom: 0 !important;
+        }
+
+        .col-right-text {
+          padding-right: 0 !important;
+          padding-left: 0 !important;
+        }
+
+        .col-right-text,
+        .col-right-text > div {
+          text-align: center !important;
+        }
+
+        .col-right-text > table {
+          margin: 0 auto !important;
+        }
+      }
+    </mj-style>
+    <!-- END of Internal/Mobile Styles -->
+
+    <!-- START of Google Tag Manager -->
+    <mj-raw>
+      <script>
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-TSMLTPT");
+      </script>
+    </mj-raw>
+    <!-- END of Google Tag Manager -->
+  </mj-head>
+  <mj-body width="800px" background-color="#d7e1e9">
+    <mj-wrapper css-class="wrapper" padding="40px 0">
+      <!-- START of View In Browser -->
+      <mj-section>
+        <mj-group>
+          <mj-column
+            width="100%"
+            background-color="#343c3f"
+            padding="15px 20px"
+          >
+            <mj-button
+              href="#"
+              css-class="btn-text-hover"
+              align="center"
+              background-color="transparent"
+              inner-padding="0"
+              color="#ffffff"
+              font-size="13px"
+            >
+              Click here to view this email in your browser
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of View In Browser -->
+
+      <!-- START of Hero Image 1 -->
+      <mj-section>
+        <mj-group>
+          <mj-column width="100%">
+            <mj-image
+              src="images/banner-axa-travel-insurance.png"
+              alt="AXA 50% off Single Trip Travel Insurance, in the background is a family on vacation"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Hero Image 1 -->
+
+      <!-- START of Content 1 -->
+      <mj-section background-color="#133483" padding="50px 20px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text
+              align="center"
+              color="#ffffff"
+              font-family="Georgia, Arial"
+              font-size="37px"
+              font-weight="bold"
+            >
+              Experience the World with AXA
+            </mj-text>
+            <mj-text
+              align="center"
+              padding-top="20px"
+              color="#ffffff"
+              font-size="16px"
+            >
+              Let your kids see the world. Teach them through experience. Travel
+              with SmartTraveller Single travel insurance and give your children
+              unforgettable experiences that they will treasure.
+            </mj-text>
+            <mj-text
+              align="center"
+              padding-top="20px"
+              color="#ffffff"
+              font-size="16px"
+            >
+              Promo lasts until 25 June 2017.
+            </mj-text>
+            <mj-button
+              href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+              css-class="btn-hover-white"
+              align="center"
+              padding-top="20px"
+              border="2px solid #ffffff"
+              border-radius="0"
+              background-color="transparent"
+              inner-padding="9px 50px"
+              color="#ffffff"
+              font-size="16px"
+              font-weight="bold"
+              text-transform="uppercase"
+            >
+              Buy Now
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section background-color="#133483" padding="10px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-button
+              href="https://www.axa.com.sg/travel-insurance/smarttraveller#helpful_information"
+              css-class="btn-text-hover"
+              align="right"
+              border="none"
+              background-color="transparent"
+              inner-padding="0"
+              color="#ffffff"
+              font-size="12px"
+            >
+              * Promotional Terms &amp; Conditions Apply
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Content 1 -->
+
+      <!-- START of Content 2 -->
+      <mj-section background-color="#f5f5f5" padding="40px 20px 60px">
+        <mj-column width="35%" vertical-align="middle">
+          <mj-image
+            align="center"
+            src="images/icon-globe.png"
+            alt="globe"
+            width="243px"
+          />
+        </mj-column>
+        <mj-column width="65%" vertical-align="middle">
+          <mj-text
+            css-class="col-right-text"
+            padding="20px 30px 0"
+            color="#2e2e2e"
+            font-family="Georgia, Arial"
+            font-size="37px"
+            font-weight="bold"
+            line-height="1.2"
+          >
+            Explore the Wonders of the World for Less
+          </mj-text>
+          <mj-text
+            css-class="col-right-text"
+            padding="20px 30px 0"
+            color="#2e2e2e"
+            font-size="16px"
+          >
+            Take a family trip abroad with SmartTraveller Annual travel
+            insurance and enjoy up to 50% discount* all year round!
+          </mj-text>
+          <mj-text
+            css-class="col-right-text"
+            padding="20px 30px 0"
+            color="#2e2e2e"
+            font-size="16px"
+            >Promo lasts until 31 May 2017
+          </mj-text>
+          <mj-button
+            href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+            css-class="col-right-text btn-hover-blue"
+            align="left"
+            padding="20px 30px 0"
+            border="2px solid #133483"
+            border-radius="0"
+            background-color="transparent"
+            inner-padding="9px 50px"
+            color="#133483"
+            font-size="16px"
+            font-weight="bold"
+            text-transform="uppercase"
+          >
+            Buy Now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f5f5" padding="10px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-button
+              href="https://www.axa.com.sg/travel-insurance/smarttraveller#helpful_information"
+              css-class="btn-text-hover"
+              align="right"
+              border="none"
+              background-color="transparent"
+              inner-padding="0"
+              color="#2e2e2e"
+              font-size="12px"
+            >
+              * Promotional Terms &amp; Conditions Apply
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Content 2 -->
+
+      <!-- START of Hero Image 2 -->
+      <mj-section>
+        <mj-group>
+          <mj-column width="100%">
+            <mj-image
+              src="images/banner-axa-smarthome.png"
+              alt="AXA 50% off Single Trip Travel Insurance, in the background is a family on vacation"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Hero Image 2 -->
+
+      <!-- START of Content 3 -->
+      <mj-section background-color="#f5f5f5" padding="50px 20px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text
+              align="center"
+              color="#2e2e2e"
+              font-family="Georgia, Arial"
+              font-size="37px"
+              font-weight="bold"
+              line-height="1.2"
+            >
+              SmartHome
+            </mj-text>
+            <mj-text
+              align="center"
+              padding-top="20px"
+              color="#2e2e2e"
+              font-size="16px"
+            >
+              Home wasn't built in a day; keep it safe with home insurance.
+            </mj-text>
+            <mj-button
+              href="https://www.axa.com.sg/our-solutions/personal/home"
+              css-class="btn-hover-blue"
+              align="center"
+              padding-top="20px"
+              border="2px solid #133483"
+              border-radius="0"
+              background-color="transparent"
+              inner-padding="9px 50px"
+              color="#133483"
+              font-size="16px"
+              font-weight="bold"
+              text-transform="uppercase"
+            >
+              Buy Now
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section background-color="#f5f5f5" padding="10px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-button
+              href="https://www.axa.com.sg/home-insurance#helpful_information"
+              css-class="btn-text-hover"
+              align="right"
+              border="none"
+              background-color="transparent"
+              inner-padding="0"
+              color="#2e2e2e"
+              font-size="12px"
+            >
+              * Promotional Terms &amp; Conditions Apply
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Content 3 -->
+
+      <!-- START of Footer -->
+      <mj-section background-color="#133483" padding="0 20px 18px">
+        <mj-column width="16%" vertical-align="middle" padding-top="20px">
+          <mj-button
+            href="https://www.axa.com.sg/"
+            css-class="btn-text-hover"
+            align="center"
+            background-color="transparent"
+            inner-padding="0"
+            color="#ffffff"
+            font-size="12px"
+            font-weight="bold"
+            text-transform="uppercase"
+          >
+            www.axa.com.sg
+          </mj-button>
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle" padding-top="20px">
+          <mj-text
+            align="center"
+            color="#ffffff"
+            font-size="11px"
+            text-transform="uppercase"
+          >
+            Privacy policy © 2017 AXA All rights reserved |
+            <a href="#" class="btn-text btn-text-hover">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="24%" vertical-align="middle" padding-top="20px">
+          <mj-text align="center">
+            <a href="https://www.facebook.com/AXASingapore" class="btn-text">
+              <img
+                src="images/btn-facebook-like.png"
+                alt="Facebook like"
+                class="inline-img social-facebook-img"
+              />
+            </a>
+            &nbsp;&nbsp;
+            <a
+              href="https://www.youtube.com/user/AXASingapore"
+              class="btn-text"
+            >
+              <img
+                src="images/btn-youtube.png"
+                alt="Facebook like"
+                class="inline-img social-youtube-img"
+              />
+            </a>
+            &nbsp;&nbsp;
+            <a href="https://www.linkedin.com/company/axa/" class="btn-text">
+              <img
+                src="images/btn-linkedin.png"
+                alt="Facebook like"
+                class="inline-img social-linkedin-img"
+              />
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- END of Footer -->
+    </mj-wrapper>
+  </mj-body>
+</mjml>
