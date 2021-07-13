@@ -135,7 +135,7 @@
         <mj-group>
           <mj-column width="100%">
             <mj-image
-              src="dist/images/banner-axa-travel-insurance.png"
+              src="images/banner-axa-travel-insurance.png"
               alt="AXA 50% off Single Trip Travel Insurance, in the background is a family on vacation"
             />
           </mj-column>
@@ -218,7 +218,7 @@
         <mj-column width="35%" vertical-align="middle">
           <mj-image
             align="center"
-            src="dist/images/icon-globe.png"
+            src="images/icon-globe.png"
             alt="globe"
             width="243px"
           />
@@ -294,7 +294,7 @@
         <mj-group>
           <mj-column width="100%">
             <mj-image
-              src="dist/images/banner-axa-smarthome.png"
+              src="images/banner-axa-smarthome.png"
               alt="AXA 50% off Single Trip Travel Insurance, in the background is a family on vacation"
             />
           </mj-column>
@@ -395,7 +395,7 @@
           <mj-text align="center">
             <a href="https://www.facebook.com/AXASingapore" class="btn-text">
               <img
-                src="dist/images/btn-facebook-like.png"
+                src="images/btn-facebook-like.png"
                 alt="Facebook like"
                 class="inline-img social-facebook-img"
               />
@@ -406,7 +406,7 @@
               class="btn-text"
             >
               <img
-                src="dist/images/btn-youtube.png"
+                src="images/btn-youtube.png"
                 alt="Facebook like"
                 class="inline-img social-youtube-img"
               />
@@ -414,7 +414,7 @@
             &nbsp;&nbsp;
             <a href="https://www.linkedin.com/company/axa/" class="btn-text">
               <img
-                src="dist/images/btn-linkedin.png"
+                src="images/btn-linkedin.png"
                 alt="Facebook like"
                 class="inline-img social-linkedin-img"
               />
