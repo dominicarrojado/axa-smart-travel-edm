@@ -136,7 +136,7 @@
           <mj-column width="100%">
             <mj-image
               src="images/banner-axa-travel-insurance.png"
-              alt="AXA 50% off Single Trip Travel Insurance, in the background is a family on vacation"
+              alt="AXA 50% OFF* Single Trip Travel Insurance, in the background is a family on vacation"
             />
           </mj-column>
         </mj-group>
@@ -295,7 +295,7 @@
           <mj-column width="100%">
             <mj-image
               src="images/banner-axa-smarthome.png"
-              alt="AXA 50% off Single Trip Travel Insurance, in the background is a family on vacation"
+              alt="AXA 40% OFF* SmartHome Insurance, in the background is a family in the kitchen and kids playing"
             />
           </mj-column>
         </mj-group>
