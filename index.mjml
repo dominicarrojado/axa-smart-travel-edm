@@ -407,7 +407,7 @@
             >
               <img
                 src="images/btn-youtube.png"
-                alt="Facebook like"
+                alt="YouTube"
                 class="inline-img social-youtube-img"
               />
             </a>
@@ -415,7 +415,7 @@
             <a href="https://www.linkedin.com/company/axa/" class="btn-text">
               <img
                 src="images/btn-linkedin.png"
-                alt="Facebook like"
+                alt="LinkedIn"
                 class="inline-img social-linkedin-img"
               />
             </a>
