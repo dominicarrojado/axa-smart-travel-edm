@@ -219,6 +219,7 @@
             </mj-text>
             <mj-button
               href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+              rel="noopener noreferrer nofollow"
               css-class="btn-hover-white"
               align="center"
               padding-top="20px"
@@ -241,6 +242,7 @@
           <mj-column width="100%">
             <mj-button
               href="https://www.axa.com.sg/promotions/smart-traveller"
+              rel="noopener noreferrer nofollow"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -297,6 +299,7 @@
           </mj-text>
           <mj-button
             href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+            rel="noopener noreferrer nofollow"
             css-class="col-right-text btn-hover-blue"
             align="left"
             padding="20px 30px 0"
@@ -318,6 +321,7 @@
           <mj-column width="100%">
             <mj-button
               href="https://www.axa.com.sg/promotions/smart-traveller"
+              rel="noopener noreferrer nofollow"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -370,6 +374,7 @@
             </mj-text>
             <mj-button
               href="https://www.axa.com.sg/home-insurance"
+              rel="noopener noreferrer nofollow"
               css-class="btn-hover-blue"
               align="center"
               padding-top="20px"
@@ -392,6 +397,7 @@
           <mj-column width="100%">
             <mj-button
               href="https://www.axa.com.sg/promotions/home-promo"
+              rel="noopener noreferrer nofollow"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -412,6 +418,7 @@
         <mj-column width="16%" vertical-align="middle" padding-top="20px">
           <mj-button
             href="https://www.axa.com.sg/"
+            rel="noopener noreferrer nofollow"
             css-class="btn-text-hover"
             align="center"
             background-color="transparent"
@@ -437,7 +444,12 @@
         </mj-column>
         <mj-column width="24%" vertical-align="middle" padding-top="20px">
           <mj-text align="center">
-            <a href="https://www.facebook.com/AXASingapore" class="btn-text">
+            <a
+              href="https://www.facebook.com/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
               <img
                 src="images/btn-facebook-like.png"
                 alt="Facebook like"
@@ -447,6 +459,8 @@
             &nbsp;&nbsp;
             <a
               href="https://www.youtube.com/user/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
               class="btn-text"
             >
               <img
@@ -456,7 +470,12 @@
               />
             </a>
             &nbsp;&nbsp;
-            <a href="https://www.linkedin.com/company/axa/" class="btn-text">
+            <a
+              href="https://www.linkedin.com/company/axa/"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
               <img
                 src="images/btn-linkedin.png"
                 alt="LinkedIn"
