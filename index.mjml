@@ -103,7 +103,7 @@
       </script>
       <!-- END of Google Tag Manager -->
 
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="https://dominicarrojado.com/favicon.ico" />
       <meta name="theme-color" content="#d7e1e9" />
       <meta name="description" content="Email template for AXA SmartTravel" />
       <link
@@ -127,11 +127,11 @@
       />
       <meta
         property="og:image"
-        content="images/axa-smart-travel-screenshot.png"
+        content="https://dominicarrojado.com/axa-smart-travel-edm/images/axa-smart-travel-screenshot.png"
       />
       <meta
         property="og:image:secure_url"
-        content="images/axa-smart-travel-screenshot.png"
+        content="https://dominicarrojado.com/axa-smart-travel-edm/images/axa-smart-travel-screenshot.png"
       />
       <meta property="og:image:width" content="2880" />
       <meta property="og:image:height" content="1800" />
@@ -143,7 +143,7 @@
       <meta name="twitter:title" content="AXA SmartTravel - Dominic Arrojado" />
       <meta
         name="twitter:image"
-        content="images/axa-smart-travel-screenshot.png"
+        content="https://dominicarrojado.com/axa-smart-travel-edm/images/axa-smart-travel-screenshot.png"
       />
     </mj-raw>
   </mj-head>
