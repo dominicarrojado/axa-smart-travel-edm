@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title> AXA SmartTravel </mj-title>
+    <mj-title> AXA SmartTravel - Dominic Arrojado </mj-title>
 
     <!-- START of Global Attributes -->
     <mj-breakpoint width="800px" />
@@ -87,8 +87,8 @@
     </mj-style>
     <!-- END of Internal/Mobile Styles -->
 
-    <!-- START of Google Tag Manager -->
     <mj-raw>
+      <!-- START of Google Tag Manager -->
       <script>
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
@@ -101,8 +101,51 @@
           f.parentNode.insertBefore(j, f);
         })(window, document, "script", "dataLayer", "GTM-TSMLTPT");
       </script>
+      <!-- END of Google Tag Manager -->
+
+      <link rel="icon" href="/favicon.ico" />
+      <meta name="theme-color" content="#d7e1e9" />
+      <meta name="description" content="Email template for AXA SmartTravel" />
+      <link
+        rel="canonical"
+        href="https://dominicarrojado.com/axa-smart-travel-edm/"
+      />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="AXA SmartTravel - Dominic Arrojado" />
+      <meta
+        property="og:description"
+        content="Email template for AXA SmartTravel"
+      />
+      <meta
+        property="og:url"
+        content="https://dominicarrojado.com/axa-smart-travel-edm/"
+      />
+      <meta
+        property="og:site_name"
+        content="AXA SmartTravel - Dominic Arrojado"
+      />
+      <meta
+        property="og:image"
+        content="/images/axa-smart-travel-screenshot.png"
+      />
+      <meta
+        property="og:image:secure_url"
+        content="/images/axa-smart-travel-screenshot.png"
+      />
+      <meta property="og:image:width" content="2880" />
+      <meta property="og:image:height" content="1800" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:description"
+        content="Email template for AXA SmartTravel"
+      />
+      <meta name="twitter:title" content="AXA SmartTravel - Dominic Arrojado" />
+      <meta
+        name="twitter:image"
+        content="/images/axa-smart-travel-screenshot.png"
+      />
     </mj-raw>
-    <!-- END of Google Tag Manager -->
   </mj-head>
   <mj-body width="800px" background-color="#d7e1e9">
     <mj-wrapper css-class="wrapper" padding="40px 0">
@@ -425,5 +468,18 @@
       </mj-section>
       <!-- END of Footer -->
     </mj-wrapper>
+
+    <mj-raw>
+      <!-- START of Google Tag Manager (noscript) -->
+      <noscript
+        ><iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-TSMLTPT"
+          height="0"
+          width="0"
+          style="display: none; visibility: hidden"
+        ></iframe
+      ></noscript>
+      <!-- END of Google Tag Manager (noscript) -->
+    </mj-raw>
   </mj-body>
 </mjml>
